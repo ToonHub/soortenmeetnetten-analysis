@@ -1,2 +1,2 @@
 # soortenmeetnetten_analysis
-Analysing data from the species monitoring programme (soortenmeetnetten) in Flandes 
+Analysing data from the species monitoring programme (soortenmeetnetten) in Flanders 
